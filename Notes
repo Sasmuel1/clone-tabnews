@@ -12,6 +12,6 @@ Important Commands (Actually):
 
 * - or --help: gives you the full manual/tutorial of how utilize the command.
 * -ls: gives you a list of the determined item you want (for exemple, of your working tree or nvm).
-* diff: shows the changes (differences) between your commits.
-* commit: record changes (for example, a new file on your working tree) on your repository.
-* log: shows to you registers (photos, see in the F18 class on Curso.dev) of your repository.
+* git diff: shows the changes (differences) between your commits.
+* git commit: record changes (for example, a new file on your working tree) on your repository.
+* git log and log --stat: shows to you registers (photos, see in the F18 class on Curso.dev) of your repository.
