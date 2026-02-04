@@ -1,0 +1,17 @@
+Important Commands (Explanation):
+
+- node (Node.js): It's a tool that lets you run Javascript code on your computer, not just in browsers.
+- nvm (Node Version Manager): It lets you change or/and apply different Node.js versions to your projects.
+- npm (Node Package Manager): It's like a library, where have pre-made commands of Node.js (called packages or modules) you can use in your project (without having to make everything from zero).
+- framework: it's pretty much like npm, but instead of just having Node.js pre-build commands, you have all kind of different pre-made tools (commands) to help you in your project.
+- react: It's like a framework but, instead, focusing on Javascript for building users interface (front-end).
+- react-dom: It's funcion is to put your React componets (what you've used) onto your real web page for your final client be able to use.
+- next (Next.js): It's a React framework (library of pre build commands) that give you features to run smoothly your website, like in the performace and routing setting.
+
+Important Commands (Actually):
+
+* - or --help: gives you the full manual/tutorial of how utilize the command.
+* -ls: gives you a list of the determined item you want (for exemple, of your working tree or nvm).
+* diff: shows the changes (differences) between your commits.
+* commit: record changes (for example, a new file on your working tree) on your repository.
+* log: shows to you registers (photos, see in the F18 Curso.dev class) of your repository.
