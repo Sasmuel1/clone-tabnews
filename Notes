@@ -14,4 +14,4 @@ Important Commands (Actually):
 * -ls: gives you a list of the determined item you want (for exemple, of your working tree or nvm).
 * diff: shows the changes (differences) between your commits.
 * commit: record changes (for example, a new file on your working tree) on your repository.
-* log: shows to you registers (photos, see in the F18 Curso.dev class) of your repository.
+* log: shows to you registers (photos, see in the F18 class on Curso.dev) of your repository.
